@@ -1,7 +1,7 @@
 ## Hi there 👋
 My Name is Tai-Yu Wang and I am currently a Student at Arlinton Tech. I like coding and plan to pursue a career in coding.
 
-###Hobbies
+Hobbies
 
 - I Like to play soccer, table tennis, and video games
 <!--
